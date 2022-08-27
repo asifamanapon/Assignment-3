@@ -42,3 +42,11 @@
             height: 26vw;
             object-fit: cover;
 }
+
+
+.about{
+    height:55vw;
+}
+.about-title{
+    font-weight: 700;
+}
